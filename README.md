@@ -11,3 +11,5 @@
 ### 2. grad_students.csv
 #### it contains details on graduate school attendees and the distribution of income.
 
+### Variable Descriptions
+![Image](https://github.com/Jingyi-a/ECON120BH/blob/master/截屏2020-01-21下午3.40.06.png)
